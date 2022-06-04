@@ -29,5 +29,5 @@ fn main() {
         sum = Some(sum2);
     }
 
-    eprintln!("answer: {answer}");
+    println!("answer: {answer}");
 }
